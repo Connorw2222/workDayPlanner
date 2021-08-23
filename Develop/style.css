@@ -69,3 +69,12 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+.red{
+  background-color: red;
+}
+.grey{
+  background-color: grey;
+}
+.green{
+  background-color: green;
+}
